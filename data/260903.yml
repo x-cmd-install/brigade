@@ -1,11 +1,13 @@
 about:
-  description: Event-driven scripting for Kubernetes
+  description:
+  |
+    Event-driven scripting for Kubernetes
   license: Apache-2.0
   homepage: https://brigade.sh/
   head: 21d51b1
   archived: false
   latestVersion: v2.6.0
-  collectedAt: 2026-09-03T05:12:06Z
+  collectedAt: 2026-09-03T22:38:47Z
 timeline:
   created: 2017-10-23
   lastCommit: 2022-09-28
@@ -29,7 +31,7 @@ language:
   Shell: 2602
   HTML: 523
   CSS: 365
-totalLine: 1652897
+totalBytes: 1652897
 recent:
   last30d:
     since: 2026-08-04
