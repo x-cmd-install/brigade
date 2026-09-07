@@ -5,7 +5,7 @@ about:
   head: 21d51b1
   archived: false
   latestVersion: "v2.6.0"
-  collectedAt: 2026-09-07T05:08:29Z
+  collectedAt: 2026-09-07T19:15:15Z
 timeline:
   created: 2017-10-23
   lastCommit: 2022-09-28
@@ -88,7 +88,7 @@ total:
   commit: 2046
 ---
 path: /home/runner/.x-repo/github.com/brigadecore/brigade
-collectedAt: 2026-09-07T05:08:35Z
+collectedAt: 2026-09-07T19:15:22Z
 loc:
   Go:
     code: 50033
@@ -281,7 +281,7 @@ checks:
       - 'Info:   0 out of  15 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:08:36+00:00
+  collectedAt: 2026-09-07T19:15:23+00:00
   platform:
     darwin/arm64:
       name:  brig-darwin-arm64
