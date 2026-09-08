@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9385090,
       "digest": null,
-      "download_count": 515,
+      "download_count": 517,
       "created_at": "2022-06-09T14:41:17Z",
       "updated_at": "2022-06-09T14:41:17Z",
       "browser_download_url": "https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9634981,
       "digest": null,
-      "download_count": 6218,
+      "download_count": 6220,
       "created_at": "2022-06-09T14:41:16Z",
       "updated_at": "2022-06-09T14:41:17Z",
       "browser_download_url": "https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9248306,
       "digest": null,
-      "download_count": 373,
+      "download_count": 375,
       "created_at": "2022-06-09T14:41:17Z",
       "updated_at": "2022-06-09T14:41:18Z",
       "browser_download_url": "https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-linux-arm64"
