@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.6.0"
   latestRelease: "v2.6.0"
   latestPrerelease: "v2.6.0-rc.2"
-  collectedAt: 2026-09-10T17:07:38Z
+  collectedAt: 2026-09-10T23:55:06Z
 timeline:
   created: 2017-10-23
   lastCommit: 2022-09-28
@@ -92,7 +92,7 @@ total:
   commit: 2046
 ---
 path: /home/runner/.x-repo/github.com/brigadecore/brigade
-collectedAt: 2026-09-10T17:07:53Z
+collectedAt: 2026-09-10T23:55:13Z
 loc:
   Go:
     code: 50033
