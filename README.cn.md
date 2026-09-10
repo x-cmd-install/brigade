@@ -4,7 +4,7 @@
 
 Event-driven scripting for Kubernetes
 
-![brigade](https://repo.x-cmd.io/brigade.svg)
+![brigade](https://repo.x-cmd.io/brigade.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,23 @@ x install brigade
 - **最新版本**: `v2.6.0` (2022-06-09)
 - **最近提交**: 2022-09-28
 - **Release 含资产**: 12 个
-- **发布时间**: 2022-06-09T14:29:19Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [brig-darwin-amd64](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-darwin-amd64) | 9.1 MiB | `native/darwin/x64` |
+| [brig-darwin-arm64](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-darwin-arm64) | 9.0 MiB | `native/darwin/arm64` |
+| [brig-linux-amd64](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-linux-amd64) | 9.2 MiB | `native/linux/x64` |
+| [brig-linux-arm64](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-linux-arm64) | 8.8 MiB | `native/linux/arm64` |
+| [brig-windows-amd64.exe](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brig-windows-amd64.exe) | 9.2 MiB | `native/win/x64` |
+| [brigade2-apiserver-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-apiserver-v2.6.0-SBOM.json) | 44.9 KiB | `other` |
+| [brigade2-artemis-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-artemis-v2.6.0-SBOM.json) | 988.3 KiB | `other` |
+| [brigade2-git-initializer-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-git-initializer-v2.6.0-SBOM.json) | 208.8 KiB | `other` |
+| [brigade2-logger-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-logger-v2.6.0-SBOM.json) | 751.8 KiB | `other` |
+| [brigade2-observer-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-observer-v2.6.0-SBOM.json) | 29.8 KiB | `other` |
+| [brigade2-scheduler-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-scheduler-v2.6.0-SBOM.json) | 9.0 KiB | `other` |
+| [brigade2-worker-v2.6.0-SBOM.json](https://github.com/brigadecore/brigade/releases/download/v2.6.0/brigade2-worker-v2.6.0-SBOM.json) | 913.2 KiB | `other` |
 
 ## 流行度
 
@@ -72,4 +88,4 @@ brigade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:08:15Z._
