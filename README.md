@@ -24,6 +24,16 @@ Total: **56,179** lines of code across **373** files in the top 5 languages.
 | TypeScript | 991 | 419 | 108 | 20 |
 | Makefile | 394 | 38 | 65 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.9 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/brigadecore/brigade>
@@ -38,7 +48,7 @@ Total: **56,179** lines of code across **373** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,414 · **Forks**: 241 · **Open issues**: 796 · **Contributors**: 90
+- **Stars**: 2,413 · **Forks**: 241 · **Open issues**: 796 · **Contributors**: 90
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **56,179** lines of code across **373** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 2 | 0 |
 
 ## Release assets
 
@@ -81,4 +91,4 @@ Install metadata for brigade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:34:27Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:54:31Z._
